@@ -1,6 +1,14 @@
-.minor {
+.animal {
   display: none;
 }
-.voter {
-  display: none;
+
+img {
+  width: 100%;
+}
+
+h4 {
+  background-color: #b8ffc8;
+  text-align: center;
+  border: 1px dashed;
+  border-radius: 25%;
 }
